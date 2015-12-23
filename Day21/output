@@ -1,0 +1,7 @@
+/home/ptr/AdventOfCode/Day19/program.scala:28: error: not found: value genWords
+while (!(genWords contains word)) {
+         ^
+/home/ptr/AdventOfCode/Day19/program.scala:30: error: not found: value genWords
+  println(steps + ": " + genWords.size)
+                         ^
+two errors found
