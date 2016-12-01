@@ -1,0 +1,2 @@
+val lines = io.Source.fromFile("file.txt").mkString
+println(lines)

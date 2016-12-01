@@ -1,0 +1,32 @@
+import scala.collection.mutable.Set
+
+val line = io.Source.fromFile("input.txt")
+
+var santax = 0
+var santay = 0
+
+var robox = 0
+var roboy = 0
+
+var santaMove = true
+
+val visited = Set((x,y))
+
+for (c <- line) {
+    if (santaMove) {
+        if (c == '<')
+        x = x - 1
+    else if (c == '>')
+        x = x + 1
+    else if (c == '^')
+        y = y - 1
+    else if (c == 'v')
+        y = y + 1
+    else
+	println("Visited: " + visited.size)
+    
+    visited.add((x,y))
+}
+
+
+
