@@ -103,7 +103,7 @@ object Day1 {
   }
 
   def main(args : Array[String]) = {
-    val input = io.Source.fromFile("inputs/Day1.txt").getLines.toList
+    val input = io.Source.fromFile("Day1.txt").getLines.toList
     part1(input)
     part2(input)    
   }
