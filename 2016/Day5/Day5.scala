@@ -29,14 +29,14 @@ object Day5 {
     val str = input.head
     var idx = 0
     var remain = 8
-    var finalStr = "-0--1--2--3--4--5--6--7-"
+    var finalStr = "(0)(1)(2)(3)(4)(5)(6)(7)"
     while (remain > 0) {
       val trystr = str + idx.toString
       val md5str = md5(trystr).map("%02X".format(_)).mkString
       if (md5str.prefixLength(_ == '0') >= 5) {
         val i = md5str(5).toString
-        if (finalStr contains ("-" + i + "-")) {
-          finalStr = finalStr.replace("-" + i + "-", md5str(6).toString)
+        if (finalStr contains ("(" + i + ")")) {
+          finalStr = finalStr.replace("(" + i + ")", md5str(6).toString)
           remain = remain - 1
           println(finalStr)
         }
