@@ -1,0 +1,22 @@
+Use Chinese Remainder Theorem to solve:
+x = 11 mod 13
+x = 7 mod 19
+x = 1 mod 3
+x = 2 mod 7
+x = 2 mod 5
+x = 6 mod 17
+
+(With addition for part 2:)
+x = 4 mod 11
+
+Formulas comes from taking a disc with #discNumber (initialPosition,
+maxPosition) and converting by:
+
+x = (-(initialPosition + discNumber) % maxPosition) (mod maxPosition)
+
+Intuition: when ball reaches the disc, it has moved discNumbers steps,
+and it wraps around when reaching maxPosition, and the minus signs
+comes from that we want position + time == (mod maxPosition) which gives that
+time == -position (mod maxPosition).
+
+
