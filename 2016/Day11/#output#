@@ -1,0 +1,1276 @@
+0
+checkFloors(1, 1, 0, 1, 0, 1, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 1, 1, 0, 2, 2, 2, 2
+	false
+checkFloors(1, 0, 0, 1, 0, 1, 1, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 1, 1, 0, 1, 0, 2, 2, 2, 2
+	false
+1
+checkFloors(2, 2, 0, 1, 0, 1, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 1, 0, 0, 0, 1, 0, 2, 2, 2, 2
+	true
+checkFloors(2, 1, 0, 2, 0, 1, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 1, 0, 1, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(2, 1, 0, 1, 0, 2, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 1, 0, 2, 2, 2, 2
+	true
+checkFloors(2, 2, 0, 2, 0, 1, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 1, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(2, 2, 0, 1, 0, 2, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 1, 0, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(2, 1, 0, 2, 0, 2, 0, 2, 2, 2, 2
+	false
+2
+checkFloors(1, 1, 1, 0, 0, 1, 0, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 0, 0, 0, 1, 1, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 0, 1, 1, 1, 0, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 1, 1, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 0, 1, 1, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 0, 1, 0, 1, 1, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 0, 0, 0, 1, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 1, 0, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 0, 1, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 1, 1, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(1, 1, 1, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 0, 1, 1, 0, 0, 2, 2, 2, 2
+	false
+3
+checkFloors(2, 2, 0, 0, 0, 1, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 1, 0, 0, 0, 2, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(2, 2, 0, 0, 0, 2, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 1, 2, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2
+	true
+checkFloors(2, 2, 0, 1, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 1, 0, 2, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 2, 0, 2, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 1, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 1, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 1, 0, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 2, 1, 0, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+4
+checkFloors(1, 1, 0, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 2, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 3, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 1, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 3, 3, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(3, 3, 3, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+5
+checkFloors(2, 2, 0, 0, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 3, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 2, 1, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 1, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 1, 2, 0, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 0, 2, 0, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 3, 2, 2, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 3, 2, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 2, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 3, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 2, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 1, 2, 0, 0, 0, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 1, 2, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 2, 0, 0, 0, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(2, 0, 0, 3, 2, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 2, 0, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(2, 2, 3, 0, 0, 0, 0, 2, 2, 2, 2
+	false
+checkFloors(0, 0, 2, 0, 0, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(0, 1, 2, 0, 0, 0, 0, 0, 2, 2, 2
+	false
+checkFloors(2, 1, 2, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 2, 0, 0, 0, 0, 0, 2, 2, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(2, 3, 2, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+6
+checkFloors(3, 0, 0, 0, 0, 3, 2, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 1, 1, 2, 2
+	true
+
+
+
+checkFloors(3, 0, 0, 0, 0, 2, 2, 1, 3, 2, 2
+	true
+
+
+
+checkFloors(1, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 3, 3, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 1, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 1, 2, 3, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 1, 2, 3, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 1, 3, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 1, 1, 2, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 2, 3, 3, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 1, 2, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 3, 1, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 2, 2, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 3, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 3, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 3, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 1, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 1, 1, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 1, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 1, 1, 2, 2
+	true
+checkFloors(3, 0, 0, 2, 2, 0, 0, 1, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(3, 0, 0, 3, 3, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(3, 0, 0, 1, 2, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 1, 3, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 1, 1, 2, 2
+	false
+checkFloors(3, 0, 0, 1, 2, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(3, 0, 0, 1, 2, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 3, 1, 2, 2
+	true
+checkFloors(3, 0, 0, 2, 2, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(3, 0, 0, 3, 3, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 1, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 1, 1, 2, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 1, 1, 2, 2
+	true
+checkFloors(3, 2, 2, 0, 0, 0, 0, 1, 3, 2, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(3, 3, 3, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(3, 1, 2, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(3, 1, 3, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 1, 1, 2, 2
+	false
+checkFloors(3, 1, 2, 0, 0, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(3, 1, 2, 0, 0, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 3, 1, 2, 2
+	true
+checkFloors(3, 2, 2, 0, 0, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(3, 3, 3, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 3, 1, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 1, 1, 2, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 1, 2, 1, 2
+	true
+7
+checkFloors(0, 0, 0, 0, 0, 2, 2, 0, 1, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 2, 1, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 2, 2, 0, 0, 2, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 2, 3, 1, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 2, 1, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 1, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 1, 2, 0, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 1, 2, 2, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 1, 2, 1, 2, 0, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 1, 2, 1, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 0, 2, 0, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 2, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 0, 2, 1, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 1, 2, 0, 2, 0, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 1, 2, 3, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 3, 2, 1, 2, 2, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 1, 2, 2, 3, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 1, 2, 2, 2, 3, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 1, 2, 3, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 0, 2, 3, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 2, 2, 3, 0, 2, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 2, 2, 2, 3, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 1, 3, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 1, 3, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 2, 3, 3, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 3, 3, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 0, 2, 3, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 3, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 1, 2, 3, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 2, 3, 2, 0, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 3, 2, 3, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 3, 2, 2, 2, 3, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 3, 2, 3, 2, 2, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 2, 2, 2, 2, 3, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 3, 2, 0, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 3, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 3, 2, 0, 1, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 3, 2, 2, 1, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 3, 2, 0, 0, 2, 2
+	true
+checkFloors(2, 0, 0, 0, 0, 3, 2, 2, 3, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 3, 3, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 3, 2, 0, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 3, 2, 2, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 0, 0, 3, 2, 1, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 3, 2, 0, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 2, 2, 0, 0, 0, 1, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 2, 1, 2, 2
+	false
+checkFloors(0, 0, 0, 2, 2, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(2, 0, 0, 2, 3, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 2, 0, 0, 1, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 1, 2, 0, 0, 0, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 1, 2, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 1, 2, 0, 0, 1, 2, 0, 2
+	false
+checkFloors(2, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 0, 2, 0, 0, 1, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 1, 2, 0, 0, 0, 2, 0, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(2, 0, 0, 3, 2, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(2, 0, 0, 1, 2, 0, 0, 2, 3, 2, 2
+	false
+checkFloors(2, 0, 0, 1, 2, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(2, 0, 0, 1, 2, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 2, 0, 0, 3, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 2, 2, 0, 0, 3, 0, 2, 2
+	true
+checkFloors(2, 0, 0, 2, 2, 0, 0, 2, 3, 2, 2
+	false
+checkFloors(0, 0, 0, 0, 1, 0, 0, 3, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 1, 0, 0, 3, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 3, 0, 0, 3, 2, 2, 2
+	false
+checkFloors(2, 0, 0, 3, 3, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 0, 2, 0, 0, 3, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 1, 2, 0, 0, 3, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 0, 2, 0, 0, 3, 2, 0, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(2, 0, 0, 3, 2, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(2, 0, 0, 3, 2, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(2, 0, 0, 2, 2, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(0, 0, 0, 3, 2, 0, 0, 0, 2, 2, 2
+	false
+checkFloors(0, 0, 0, 3, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 0, 3, 2, 0, 0, 0, 1, 2, 2
+	false
+checkFloors(2, 0, 0, 3, 2, 0, 0, 2, 1, 2, 2
+	false
+checkFloors(0, 0, 0, 3, 2, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(2, 0, 0, 3, 2, 0, 0, 2, 3, 2, 2
+	false
+checkFloors(2, 0, 0, 2, 2, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(0, 0, 0, 3, 2, 0, 0, 0, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 3, 2, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(0, 0, 0, 3, 2, 0, 0, 1, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 3, 2, 0, 0, 0, 2, 0, 2
+	false
+checkFloors(0, 2, 2, 0, 0, 0, 0, 0, 1, 2, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 2, 1, 2, 2
+	false
+checkFloors(0, 2, 2, 0, 0, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(2, 2, 3, 0, 0, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(0, 0, 2, 0, 0, 0, 0, 1, 2, 1, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(0, 1, 2, 0, 0, 0, 0, 0, 2, 1, 2
+	false
+checkFloors(2, 1, 2, 0, 0, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(0, 1, 2, 0, 0, 0, 0, 1, 2, 0, 2
+	false
+checkFloors(2, 1, 2, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(0, 0, 2, 0, 0, 0, 0, 0, 2, 1, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(0, 0, 2, 0, 0, 0, 0, 1, 2, 0, 2
+	false
+checkFloors(0, 1, 2, 0, 0, 0, 0, 0, 2, 0, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(2, 3, 2, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(2, 1, 2, 0, 0, 0, 0, 2, 3, 2, 2
+	false
+checkFloors(2, 1, 2, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(2, 1, 2, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(0, 0, 2, 0, 0, 0, 0, 3, 2, 2, 2
+	false
+checkFloors(0, 2, 2, 0, 0, 0, 0, 3, 0, 2, 2
+	true
+checkFloors(2, 2, 2, 0, 0, 0, 0, 2, 3, 2, 2
+	false
+checkFloors(0, 0, 1, 0, 0, 0, 0, 3, 2, 2, 2
+	false
+checkFloors(2, 2, 1, 0, 0, 0, 0, 3, 2, 2, 2
+	false
+checkFloors(2, 2, 3, 0, 0, 0, 0, 3, 2, 2, 2
+	false
+checkFloors(2, 3, 3, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 0, 2, 0, 0, 0, 0, 3, 2, 1, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(0, 1, 2, 0, 0, 0, 0, 3, 2, 0, 2
+	false
+checkFloors(0, 0, 2, 0, 0, 0, 0, 3, 2, 0, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(2, 3, 2, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(2, 3, 2, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(2, 2, 2, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(0, 3, 2, 0, 0, 0, 0, 0, 2, 2, 2
+	false
+checkFloors(0, 3, 0, 0, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(0, 3, 2, 0, 0, 0, 0, 0, 1, 2, 2
+	false
+checkFloors(2, 3, 2, 0, 0, 0, 0, 2, 1, 2, 2
+	false
+checkFloors(0, 3, 2, 0, 0, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(2, 3, 2, 0, 0, 0, 0, 2, 3, 2, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(0, 3, 2, 0, 0, 0, 0, 0, 2, 1, 2
+	false
+checkFloors(2, 3, 2, 0, 0, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(0, 3, 2, 0, 0, 0, 0, 1, 2, 0, 2
+	false
+checkFloors(0, 3, 2, 0, 0, 0, 0, 0, 2, 0, 2
+	false
+8
+checkFloors(1, 1, 0, 0, 0, 2, 2, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 2, 2, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 0, 1, 0, 2, 2, 0, 0, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 1, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 1, 1, 1, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 2, 2, 1, 3, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 1, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 0, 0, 2, 2, 1, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 1, 2, 1, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 3, 3, 1, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 1, 2, 3, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 2, 2, 1, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 3, 2, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 2, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 2, 2, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 1, 1, 1, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 2, 3, 3, 1, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 1, 2, 1, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 3, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 1, 1, 2, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 2, 1, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 1, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 2, 1, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 2, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 2, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 2, 2, 1, 1
+	true
+checkFloors(3, 0, 0, 0, 0, 2, 2, 2, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 2, 2, 1, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 3, 3, 2, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 3, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 1, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 1, 1, 3, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 2, 2, 1, 3, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 1, 2, 3, 1
+	false
+checkFloors(3, 0, 0, 0, 0, 2, 2, 1, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 1, 2, 3, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 3, 3, 1, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 1, 1, 2, 2, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 3, 2, 1, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 1, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 0, 0, 3, 2, 1, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 2, 2, 3, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 1, 3, 2, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 2, 2, 3, 1
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 2, 2, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 1, 1, 3, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 2, 3, 3, 3, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 1, 3, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 3, 1, 2, 2
+	false
+checkFloors(1, 0, 0, 0, 0, 1, 2, 3, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 0, 0, 1, 2, 3, 2, 3, 3
+	true
+checkFloors(1, 1, 0, 0, 0, 2, 2, 3, 0, 2, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 2, 2, 3, 0, 2, 2
+	true
+checkFloors(1, 1, 0, 1, 0, 2, 2, 3, 0, 2, 2
+	true
+checkFloors(1, 1, 0, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 1, 0, 1, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 3, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 3, 1, 1, 2, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 3, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 3, 1, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 3, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 3, 1, 1, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 2, 2, 3, 3, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 3, 2, 1, 1
+	true
+checkFloors(3, 0, 0, 0, 0, 2, 2, 3, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 3, 2, 1, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 3, 3, 3, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 3, 1, 3, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 2, 2, 3, 3, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 3, 2, 3, 1
+	true
+checkFloors(3, 0, 0, 0, 0, 2, 2, 3, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 1, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 1, 2, 2, 3, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 3, 2, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 2, 2, 3, 1
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 2, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 1, 1, 3, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 3, 3, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 3, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 1, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 3, 1, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 3, 2, 1, 1
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 3, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 2, 2, 3, 2
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 2, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 2, 2, 2, 2, 3, 1
+	true
+checkFloors(3, 0, 0, 0, 0, 2, 2, 2, 2, 3, 3
+	true
+checkFloors(1, 1, 0, 0, 0, 3, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 3, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 0, 1, 0, 3, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 0, 0, 0, 3, 2, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 3, 2, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 0, 1, 0, 3, 2, 0, 0, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 1, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 1, 2, 3, 3, 1, 2
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 1, 2, 2, 1, 2
+	false
+checkFloors(1, 0, 0, 0, 0, 3, 2, 2, 2, 1, 1
+	true
+checkFloors(3, 0, 0, 0, 0, 3, 2, 2, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 0, 0, 3, 2, 1, 1, 1, 2
+	false
+checkFloors(3, 0, 0, 0, 0, 3, 2, 3, 3, 1, 2
+	true
+checkFloors(1, 1, 0, 2, 2, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 1, 2, 2, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 0, 2, 2, 1, 0, 0, 0, 2, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 1, 1, 1, 2
+	false
+checkFloors(3, 0, 0, 2, 2, 0, 0, 1, 3, 1, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 1, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 2, 2, 0, 0, 1, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 1, 2, 1, 2
+	false
+checkFloors(3, 0, 0, 3, 3, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 1, 2, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 2, 2, 1, 2
+	false
+checkFloors(3, 0, 0, 1, 3, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 2, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 1, 2, 0, 0, 2, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 1, 1, 1, 2
+	false
+checkFloors(3, 0, 0, 1, 2, 0, 0, 3, 3, 1, 2
+	true
+checkFloors(3, 0, 0, 1, 2, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(3, 0, 0, 1, 3, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 1, 1, 2, 2
+	false
+checkFloors(3, 0, 0, 1, 2, 0, 0, 1, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 1, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 1, 2, 0, 0, 1, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 2, 2, 1, 1
+	true
+checkFloors(3, 0, 0, 2, 2, 0, 0, 2, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 2, 2, 1, 2
+	false
+checkFloors(3, 0, 0, 3, 3, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 1, 1, 3, 2
+	true
+checkFloors(3, 0, 0, 2, 2, 0, 0, 1, 3, 3, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 1, 2, 3, 1
+	false
+checkFloors(3, 0, 0, 2, 2, 0, 0, 1, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 1, 2, 3, 2
+	false
+checkFloors(3, 0, 0, 3, 3, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 3, 1, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(3, 0, 0, 3, 2, 0, 0, 1, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 1, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 3, 2, 0, 0, 1, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(3, 0, 0, 1, 3, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 2, 2, 3, 1
+	false
+checkFloors(3, 0, 0, 1, 2, 0, 0, 2, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 1, 1, 3, 2
+	false
+checkFloors(3, 0, 0, 1, 2, 0, 0, 3, 3, 3, 2
+	true
+checkFloors(3, 0, 0, 1, 3, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 3, 1, 2, 2
+	false
+checkFloors(1, 0, 0, 1, 2, 0, 0, 3, 2, 1, 1
+	false
+checkFloors(3, 0, 0, 1, 2, 0, 0, 3, 2, 3, 3
+	true
+checkFloors(1, 1, 0, 2, 2, 0, 0, 3, 0, 2, 2
+	true
+checkFloors(1, 1, 1, 2, 2, 0, 0, 3, 0, 2, 2
+	true
+checkFloors(1, 1, 0, 2, 2, 1, 0, 3, 0, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 3, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 3, 0, 0, 1, 1, 2, 2
+	true
+checkFloors(3, 0, 0, 3, 3, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 3, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(3, 0, 0, 3, 3, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 3, 1, 1, 2
+	false
+checkFloors(3, 0, 0, 2, 2, 0, 0, 3, 3, 1, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 3, 2, 1, 1
+	true
+checkFloors(3, 0, 0, 2, 2, 0, 0, 3, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 3, 2, 1, 2
+	false
+checkFloors(3, 0, 0, 3, 3, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 3, 1, 3, 2
+	true
+checkFloors(3, 0, 0, 2, 2, 0, 0, 3, 3, 3, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 3, 2, 3, 1
+	true
+checkFloors(3, 0, 0, 2, 2, 0, 0, 3, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 3, 1, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(3, 0, 0, 3, 3, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 2, 2, 3, 1
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 2, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 1, 1, 3, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 3, 3, 3, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(1, 0, 0, 3, 1, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 3, 1, 2, 2
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 3, 2, 1, 1
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 3, 2, 3, 3
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(1, 0, 0, 2, 2, 0, 0, 2, 2, 3, 1
+	true
+checkFloors(3, 0, 0, 2, 2, 0, 0, 2, 2, 3, 3
+	true
+checkFloors(1, 1, 0, 3, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 1, 3, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 0, 3, 0, 1, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 1, 0, 3, 2, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 1, 3, 2, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 0, 3, 2, 1, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 1, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 0, 0, 1, 2, 0, 0, 3, 3, 1, 2
+	true
+checkFloors(1, 0, 0, 3, 1, 0, 0, 2, 2, 1, 2
+	false
+checkFloors(1, 0, 0, 3, 2, 0, 0, 2, 2, 1, 1
+	true
+checkFloors(3, 0, 0, 3, 2, 0, 0, 2, 2, 1, 3
+	true
+checkFloors(1, 0, 0, 3, 2, 0, 0, 1, 1, 1, 2
+	false
+checkFloors(3, 0, 0, 3, 2, 0, 0, 3, 3, 1, 2
+	true
+checkFloors(1, 2, 2, 1, 0, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 2, 2, 1, 1, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 2, 2, 1, 0, 1, 0, 0, 0, 2, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 1, 1, 1, 2
+	false
+checkFloors(3, 2, 2, 0, 0, 0, 0, 1, 3, 1, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 1, 2, 1, 1
+	false
+checkFloors(3, 2, 2, 0, 0, 0, 0, 1, 2, 1, 3
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 1, 2, 1, 2
+	false
+checkFloors(3, 3, 3, 0, 0, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(3, 1, 2, 0, 0, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2
+	false
+checkFloors(3, 1, 3, 0, 0, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 2, 2, 1, 1
+	false
+checkFloors(3, 1, 2, 0, 0, 0, 0, 2, 2, 1, 3
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 1, 1, 1, 2
+	false
+checkFloors(3, 1, 2, 0, 0, 0, 0, 3, 3, 1, 2
+	true
+checkFloors(3, 1, 2, 0, 0, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(3, 1, 3, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 1, 1, 2, 2
+	false
+checkFloors(3, 1, 2, 0, 0, 0, 0, 1, 3, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 1, 2, 1, 1
+	false
+checkFloors(3, 1, 2, 0, 0, 0, 0, 1, 2, 3, 3
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 2, 2, 1, 1
+	true
+checkFloors(3, 2, 2, 0, 0, 0, 0, 2, 2, 1, 3
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 2, 2, 1, 2
+	false
+checkFloors(3, 3, 3, 0, 0, 0, 0, 2, 2, 1, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 1, 1, 3, 2
+	true
+checkFloors(3, 2, 2, 0, 0, 0, 0, 1, 3, 3, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 1, 2, 3, 1
+	false
+checkFloors(3, 2, 2, 0, 0, 0, 0, 1, 2, 3, 3
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 1, 2, 3, 2
+	false
+checkFloors(3, 3, 3, 0, 0, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(1, 3, 1, 0, 0, 0, 0, 1, 2, 2, 2
+	false
+checkFloors(3, 3, 2, 0, 0, 0, 0, 1, 3, 2, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 1, 2, 1, 1
+	false
+checkFloors(3, 3, 2, 0, 0, 0, 0, 1, 2, 3, 3
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(3, 1, 3, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 2, 2, 3, 1
+	false
+checkFloors(3, 1, 2, 0, 0, 0, 0, 2, 2, 3, 3
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 1, 1, 3, 2
+	false
+checkFloors(3, 1, 2, 0, 0, 0, 0, 3, 3, 3, 2
+	true
+checkFloors(3, 1, 3, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 3, 1, 2, 2
+	false
+checkFloors(1, 1, 2, 0, 0, 0, 0, 3, 2, 1, 1
+	false
+checkFloors(3, 1, 2, 0, 0, 0, 0, 3, 2, 3, 3
+	true
+checkFloors(1, 2, 2, 1, 0, 0, 0, 3, 0, 2, 2
+	true
+checkFloors(1, 2, 2, 1, 1, 0, 0, 3, 0, 2, 2
+	true
+checkFloors(1, 2, 2, 1, 0, 1, 0, 3, 0, 2, 2
+	true
+checkFloors(1, 3, 3, 0, 0, 0, 0, 1, 2, 2, 2
+	true
+checkFloors(1, 3, 3, 0, 0, 0, 0, 1, 1, 2, 2
+	true
+checkFloors(3, 3, 3, 0, 0, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 3, 3, 0, 0, 0, 0, 1, 2, 1, 2
+	true
+checkFloors(3, 3, 3, 0, 0, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 3, 1, 1, 2
+	false
+checkFloors(3, 2, 2, 0, 0, 0, 0, 3, 3, 1, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 3, 2, 1, 1
+	true
+checkFloors(3, 2, 2, 0, 0, 0, 0, 3, 2, 1, 3
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 3, 2, 1, 2
+	false
+checkFloors(3, 3, 3, 0, 0, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 3, 1, 3, 2
+	true
+checkFloors(3, 2, 2, 0, 0, 0, 0, 3, 3, 3, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 3, 2, 3, 1
+	true
+checkFloors(3, 2, 2, 0, 0, 0, 0, 3, 2, 3, 3
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 3, 2, 3, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 1, 2, 3, 2
+	true
+checkFloors(1, 3, 1, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(3, 3, 3, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 2, 2, 3, 1
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 2, 2, 3, 3
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 1, 1, 3, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 3, 3, 3, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 3, 2, 1, 2
+	true
+checkFloors(1, 3, 1, 0, 0, 0, 0, 3, 2, 2, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 3, 1, 2, 2
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 3, 2, 1, 1
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 3, 2, 3, 3
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 2, 2, 3, 2
+	true
+checkFloors(1, 2, 2, 0, 0, 0, 0, 2, 2, 3, 1
+	true
+checkFloors(3, 2, 2, 0, 0, 0, 0, 2, 2, 3, 3
+	true
+checkFloors(1, 3, 0, 1, 0, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 3, 0, 1, 1, 0, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 3, 0, 1, 0, 1, 0, 2, 2, 2, 2
+	true
+checkFloors(1, 3, 2, 1, 0, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 3, 2, 1, 1, 0, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 3, 2, 1, 0, 1, 0, 0, 0, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 1, 1, 0, 0, 0, 0, 3, 3, 2, 2
+	true
+checkFloors(1, 1, 2, 0, 0, 0, 0, 3, 3, 1, 2
+	true
+checkFloors(1, 3, 1, 0, 0, 0, 0, 2, 2, 1, 2
+	false
+checkFloors(1, 3, 2, 0, 0, 0, 0, 2, 2, 1, 1
+	true
+checkFloors(3, 3, 2, 0, 0, 0, 0, 2, 2, 1, 3
+	true
+checkFloors(1, 3, 2, 0, 0, 0, 0, 1, 1, 1, 2
+	false
+checkFloors(3, 3, 2, 0, 0, 0, 0, 3, 3, 1, 2
+	true
+9
+checkFloors(2, 2, 0, 0, 0, 2, 2, 0, 0, 2, 2
+	false
+checkFloors(0, 0, 1, 0, 0, 2, 2, 0, 0, 2, 2
+	false
+checkFloors(2, 2, 1, 0, 0, 2, 2, 0, 0, 2, 2
+	false
+checkFloors(2, 2, 2, 0, 0, 2, 2, 0, 0, 2, 2
+	true
+checkFloors(0, 0, 0, 1, 0, 2, 2, 0, 0, 2, 2
+	true
+checkFloors(2, 2, 0, 1, 0, 2, 2, 0, 0, 2, 2
+	false
+checkFloors(0, 1, 0, 0, 0, 2, 2, 0, 0, 2, 2
+	true
+checkFloors(2, 1, 0, 2, 0, 2, 2, 0, 0, 2, 2
+	false
+checkFloors(2, 2, 0, 2, 0, 2, 2, 0, 0, 2, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 3, 1, 2, 1, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 1, 2, 2, 3, 1, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 1, 2, 1, 2, 2, 3
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 2, 2, 2, 1, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 1, 2, 2, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 2, 2, 2, 0, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 2, 2, 2, 2, 0, 1
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 2, 2, 2, 1
+	false
+checkFloors(0, 0, 0, 0, 0, 2, 2, 2, 2, 0, 0
+	true
+checkFloors(2, 0, 0, 0, 0, 2, 3, 2, 2, 1, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 2, 1, 2, 3, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 1, 2, 0, 2, 3, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 0, 2, 0, 2, 3, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 2, 2, 0, 1, 3, 2
+	false
+checkFloors(2, 0, 0, 0, 0, 2, 2, 2, 1, 3, 2
+	false
+checkFloors(0, 0, 0, 0, 0, 2, 2, 0, 0, 3, 2
+	true
